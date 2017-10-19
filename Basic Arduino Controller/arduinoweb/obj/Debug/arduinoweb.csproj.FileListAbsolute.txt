@@ -1,0 +1,6 @@
+E:\programming\arduinoweb\bin\arduinoweb.dll.config
+E:\programming\arduinoweb\bin\arduinoweb.dll
+E:\programming\arduinoweb\bin\arduinoweb.pdb
+E:\programming\arduinoweb\obj\Debug\arduinoweb.dll
+E:\programming\arduinoweb\obj\Debug\arduinoweb.pdb
+E:\programming\arduinoweb\obj\Debug\arduinoweb.csprojResolveAssemblyReference.cache
