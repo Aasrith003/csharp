@@ -1,0 +1,6 @@
+E:\programming\client_weBsite\bin\client_weBsite.dll.config
+E:\programming\client_weBsite\bin\client_weBsite.dll
+E:\programming\client_weBsite\bin\client_weBsite.pdb
+E:\programming\client_weBsite\obj\Debug\client_weBsite.csprojResolveAssemblyReference.cache
+E:\programming\client_weBsite\obj\Debug\client_weBsite.dll
+E:\programming\client_weBsite\obj\Debug\client_weBsite.pdb

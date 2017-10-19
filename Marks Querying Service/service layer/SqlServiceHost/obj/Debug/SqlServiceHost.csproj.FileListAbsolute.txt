@@ -1,0 +1,8 @@
+E:\programming\SqlServiceHost\bin\Debug\SqlServiceHost.exe.config
+E:\programming\SqlServiceHost\bin\Debug\SqlServiceHost.exe
+E:\programming\SqlServiceHost\bin\Debug\SqlServiceHost.pdb
+E:\programming\SqlServiceHost\bin\Debug\SqlService.dll
+E:\programming\SqlServiceHost\bin\Debug\SqlService.pdb
+E:\programming\SqlServiceHost\obj\Debug\SqlServiceHost.csprojResolveAssemblyReference.cache
+E:\programming\SqlServiceHost\obj\Debug\SqlServiceHost.exe
+E:\programming\SqlServiceHost\obj\Debug\SqlServiceHost.pdb

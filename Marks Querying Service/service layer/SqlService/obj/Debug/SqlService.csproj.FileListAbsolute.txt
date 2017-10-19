@@ -1,0 +1,6 @@
+E:\programming\SqlService\bin\Debug\SqlService.dll.config
+E:\programming\SqlService\bin\Debug\SqlService.dll
+E:\programming\SqlService\bin\Debug\SqlService.pdb
+E:\programming\SqlService\obj\Debug\SqlService.csprojResolveAssemblyReference.cache
+E:\programming\SqlService\obj\Debug\SqlService.dll
+E:\programming\SqlService\obj\Debug\SqlService.pdb
